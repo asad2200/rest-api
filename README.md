@@ -1,4 +1,7 @@
 # rest-api
-  - django_restframework explore
- 
-1. serialization 
+
+## `exploring django_restframework`
+
+1. serialization
+   - serializarTutorial (only api)
+   - CRUDApp with validation(only api)
