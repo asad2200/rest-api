@@ -18,3 +18,4 @@
    - Function based apiview - FunctionApiViewCrud (only api)
    - Classed based apiview - same as functionbased apiview
    - Generic View using Mixin - GenericViewCrud ( only api )
+   - Concrete View - ConcreteView ( only api )
