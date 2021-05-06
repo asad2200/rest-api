@@ -15,4 +15,6 @@
    - ModalSrApp model serializer with validation (only api)
 
 2. API View
-   - Function based apiview -FunctionApiViewCrud (only api)
+   - Function based apiview - FunctionApiViewCrud (only api)
+   - Classed based apiview - same as functionbased apiview
+   - Generic View using Mixin - GenericViewCrud ( only api )
