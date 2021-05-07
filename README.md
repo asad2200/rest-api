@@ -33,6 +33,7 @@
       - Authentication
          - BasicAuthentication - BasicAuthenticationClass ( only api )
          - SessionAuthentication - SessionAuthenticationClass ( only api )
+         - Authentication in Function based view - FunctionBasedViewAuthentication ( only api )
 
       - Permission
          - AllowAny
