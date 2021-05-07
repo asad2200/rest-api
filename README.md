@@ -42,4 +42,4 @@
          - DjangoModelPermissions
          - DjangoModelPermissionsOrAnonReadOnly
          - DjangoObjectPermissions
-         - CustomPermissions
+         - CustomPermissions - customPermissionProject ( only api )
