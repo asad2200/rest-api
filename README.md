@@ -32,8 +32,14 @@
 
       - Authentication
          - BasicAuthentication - BasicAuthenticationClass ( only api )
+         - SessionAuthentication - SessionAuthenticationClass ( only api )
 
       - Permission
          - AllowAny
          - IsAuthenticated
          - IsAdminUser
+         - IsAuthenticatedOrReadOnly
+         - DjangoModelPermissions
+         - DjangoModelPermissionsOrAnonReadOnly
+         - DjangoObjectPermissions
+         - CustomPermissions
