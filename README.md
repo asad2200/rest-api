@@ -7,9 +7,10 @@
 `1. serialization projects`
 
       - validation
-      - validators
-      - field level validation
-      - object level validation
+         - validators
+         - field level validation
+         - object level validation
+
       - serializarTutorial (only api)
       - CRUDApp with validation (only api)
 
