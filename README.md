@@ -25,3 +25,12 @@
    - Viewset class - ViewSetClass ( only api )
    - ModelViewSet Class - ModelViewSetClass ( only api )
    - ReadOnlyModelViewSet Class - Same as ModelViewSet class but only have list and retrive method
+
+3. Authentication and Permission
+   - Authentication
+      - BasicAuthentication - BasicAuthenticationClass ( only api )
+
+   - Permission
+      - AllowAny
+      - IsAuthenticated
+      - IsAdminUser
