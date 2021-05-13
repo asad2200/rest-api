@@ -35,7 +35,8 @@
          - SessionAuthentication - SessionAuthenticationClass ( only api )
          - Authentication in Function based view - FunctionBasedViewAuthentication ( only api )
          - TokenAuthentication - TokenAuthenticationClass ( only api )
-         - CustomAuthentication - Create a class which is subclass of BaseAuthentication and override .authenticate(self, request) method.
+         - CustomAuthentication - Create a class which is subclass of BaseAuthentication and       override .authenticate(self, request) method.
+         - JWT TOKEN - JWTTokenProject ( only api )
 
       - Permission
          - AllowAny
