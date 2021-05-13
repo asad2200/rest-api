@@ -47,3 +47,10 @@
          - DjangoModelPermissionsOrAnonReadOnly
          - DjangoObjectPermissions
          - CustomPermissions - customPermissionProject ( only api )
+
+`4. Throttling`
+
+      - AnonRateThrottle - ThrottlingProject ( only api )
+      - UserRateThrottle - ThrottlingProject ( only api )
+      - ScopeRateThrottle - can use throttle for scope like list and create
+      - Custom throttles - inherit UserRateThrottle class or BaseThrottleClass and modify it
