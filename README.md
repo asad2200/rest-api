@@ -54,3 +54,16 @@
       - UserRateThrottle - ThrottlingProject ( only api )
       - ScopeRateThrottle - can use throttle for scope like list and create
       - Custom throttles - inherit UserRateThrottle class or BaseThrottleClass and modify it
+
+`5. Filtering`
+
+      - overwrite get_queryset function
+      - generic filtering
+      - search filtering
+      - order filtering
+
+`6. Pagination`
+
+      - PageNumberPagination
+      - LimitOffsetPagination
+      - CursorPagination
