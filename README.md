@@ -67,3 +67,8 @@
       - PageNumberPagination
       - LimitOffsetPagination
       - CursorPagination
+
+`7. Other`
+
+      - SerializerRelation
+      - Nested Relationships
